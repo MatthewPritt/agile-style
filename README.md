@@ -1,1 +1,3 @@
 # agile-style
+
+I create user stories to help connect and get feedback from the user so that I can optimize my program to fit what they need. This helps by allowing a medium of information to go from them to me so the communication is crystal clear. I approach developing programs by planning first then doing smaller sprints in steps to ensure it gets done in a reasonable time. I hope to incorporate things like the agile structure where its easier to go back and fix things after being so long in the project. A good teram menber means that you are efficient, easy to communicate with, accountable, and a hard worker. 
